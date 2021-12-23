@@ -166,7 +166,7 @@ Thank you
 
 - [Robson V. Leite](https://github.com/frankutio) (Developer)
 - [UpInside Treinamentos](https://github.com/frankutio) (Team)
-- [All Contributors](https://github.com/frankutio/uploader/contributors) (This Rock)
+- [All Contributors](https://github.com/frankutio/cafeapi/contributors) (This Rock)
 
 ## License
 
